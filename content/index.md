@@ -1,7 +1,5 @@
 ---
-title: |-
-  Piper's Gaming Corner
-  Gaming is one of my favorite hobbies because I can have fun, relax, and get lost in different games and worlds while also playing with other people.
+title: Piper's Gaming
 ---
 ## The index page
 
