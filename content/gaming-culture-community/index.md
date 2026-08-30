@@ -1,7 +1,7 @@
 ---
 title: Gaming Culture & Community
 ---
-## The Category 02 category index page
+## Gaming Culture & Community
 
 ### What is this page?
 

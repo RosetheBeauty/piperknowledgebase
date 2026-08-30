@@ -1,7 +1,7 @@
 ---
 title: Gaming Platforms
 ---
-## The Category 01 category index page
+## Gaming Platforms
 
 ### What is this page?
 

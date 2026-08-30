@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## The Category 02 category index page
+## Online & Multiplayer Gaming
 
 ### What is this page?
 

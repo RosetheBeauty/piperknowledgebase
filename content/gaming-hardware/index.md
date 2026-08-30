@@ -1,7 +1,7 @@
 ---
 title: Gaming Hardware
 ---
-## The Category 02 category index page
+## Gaming Hardware
 
 ### What is this page?
 

@@ -1,7 +1,7 @@
 ---
 title: Gaming Software
 ---
-## The Category 02 category index page
+## Gaming Software
 
 ### What is this page?
 

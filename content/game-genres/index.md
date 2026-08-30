@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## The Category 02 category index page
+## Game Genres
 
 ### What is this page?
 
