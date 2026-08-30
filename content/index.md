@@ -12,7 +12,7 @@ title: Piper's Gaming
 
 ## Editing pages
 
-Please eeeeeeeeeeeeeeeeeeeeeeeeeYou can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
 
 For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
 
