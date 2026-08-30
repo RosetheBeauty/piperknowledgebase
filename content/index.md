@@ -1,9 +1,14 @@
 ---
 title: Piper's Gaming
 ---
-## The index page
+## Main Categories
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+- [[gaming-platforms/index|Gaming Platforms]]
+- [[game-genres/index|Game Genres]]
+- [[gaming-hardware/index|Gaming Hardware]]
+- [[gaming-software/index|Gaming Software]]
+- [[online-multiplayer-gaming/index|Online & Multiplayer Gaming]]
+- [[gaming-culture-community/index|Gaming Culture & Community]]
 
 ## Editing pages
 
