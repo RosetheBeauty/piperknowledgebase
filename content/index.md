@@ -3,12 +3,12 @@ title: Piper's Gaming
 ---
 ## Main Categories
 
-- [[gaming-platforms/index|Gaming Platforms]]
-- [[game-genres/index|Game Genres]]
+- [[Gaming Platforms|Gaming Platforms]]
+- [[Game Genres|Game Genres]]
 - [[gaming-hardware/index|Gaming Hardware]]
 - [[gaming-software/index|Gaming Software]]
-- [[online-multiplayer-gaming/index|Online & Multiplayer Gaming]]
-- [[gaming-culture-community/index|Gaming Culture & Community]]
+- [[Online Multiplayer Gaming|Online & Multiplayer Gaming]]
+- [[Gaming Culture Community|Gaming Culture & Community]]
 
 ## Editing pages
 
