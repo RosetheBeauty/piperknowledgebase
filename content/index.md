@@ -3,16 +3,16 @@ title: Piper's Gaming
 ---
 ## Main Categories
 
-- [[Gaming Platforms|Gaming Platforms]]
-- [[Game Genres|Game Genres]]
+- [[gaming-platforms/index|Gaming Platforms]]
+- [[game-genres/index|Game Genres]]
 - [[gaming-hardware/index|Gaming Hardware]]
 - [[gaming-software/index|Gaming Software]]
 - [[Online Multiplayer Gaming|Online & Multiplayer Gaming]]
-- [[Gaming Culture Community|Gaming Culture & Community]]
+- [[gaming-culture-community/index|Gaming Culture & Community]]
 
 ## Editing pages
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+Hello, You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
 
 For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
 

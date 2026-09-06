@@ -1,7 +1,7 @@
 ---
-title: Gaming Software
+title: Gaming Culture & Community
 ---
-## Gaming Software
+## Gaming Culture & Community
 
 ### What is this page?
 
@@ -17,8 +17,4 @@ This file uses the `title` property/frontmatter to specify the category page tit
 
 Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
 
-A similar category is [[Gaming Platforms| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
-
-## Related Categories
-
-Game software relies on [[Game Hardware|game hardware]] to provide the systems and devices needed to run and interact with games.
+A similar category is [[gaming-platforms/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
