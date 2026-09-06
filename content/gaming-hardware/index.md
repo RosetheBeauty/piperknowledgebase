@@ -21,4 +21,4 @@ A similar category is [[gaming-platforms/index| Category 01]], which also uses t
 
 ## Related Categories
 
-Game hardware works alongside [[game-software/index|game software]] to provide the systems and programs needed to run and interact with games.
+Game hardware works alongside [[gaming-software/index|game software]] to provide the systems and programs needed to run and interact with games.

@@ -21,4 +21,4 @@ A similar category is [[gaming-platforms/index| Category 01]], which also uses t
 
 ## Related Categories
 
-Game software relies on [[game-hardware/index|game hardware]] to provide the systems and devices needed to run and interact with games.
+Game software relies on [[gaming-hardware/index|game hardware]] to provide the systems and devices needed to run and interact with games.
