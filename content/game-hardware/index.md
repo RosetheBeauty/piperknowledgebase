@@ -1,5 +1,5 @@
 ---
-title: Gaming Hardware
+title: Gaming Software
 ---
 ## Gaming Hardware
 
