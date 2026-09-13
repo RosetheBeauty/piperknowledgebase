@@ -3,22 +3,17 @@ title: Gaming Hardware
 ---
 ## Gaming Hardware
 
-### What is this page??
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+Gaming hardware includes the physical equipment used to play video games. This category covers gaming consoles, gaming PCs, controllers, monitors, and other accessories. These different types of hardware work together to create a complete gaming setup.
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+### Related Pages 
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[gaming-platforms/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
-
+- [[Gaming Consoles]]
+- [[Gaming PCs]]
+- [[Gaming Controllers]] 
+- [[Gaming Monitors]] 
+- [[Gaming Accessories]]
+  
 ## Related Categories
 
 Game hardware works alongside [[gaming-software/index|game software]] to provide the systems and programs needed to run and interact with games.
