@@ -21,6 +21,6 @@ A gaming PC also works with [[Gaming Monitors]] because the computer's hardware 
 
 ### Hardware and Software
 
-Gaming PCs also need [[Gaming Software]] to run games and other programs. The hardware and software work together to make everything run correctly.
+Gaming PCs also need [[gaming-software/index]] to run games and other programs. The hardware and software work together to make everything run correctly.
 
 > I think gaming PCs are cool because there are so many different ways to build one and make it your own.

@@ -5,20 +5,31 @@ title: Gaming Software
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+Gaming software is software that is created for playing, developing, or supporting video games. It can include the games themselves, gaming platforms, game launchers, and software used to create games. Gaming software can be found on computers, consoles, phones, and other gaming devices.
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+Gaming has become a major part of modern technology and entertainment. Different types of gaming software allow people to play games, connect with other players, and explore different types of interactive experiences.
 
-### Naming a category page's index
+### Games
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
+Games are one of the main types of gaming software. They are interactive programs that allow players to participate in different experiences, including competitive matches, stories, exploration, role-playing, and simulations.
 
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
+Some examples of games include:
 
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
+- [[Overwatch]] 
+  [[overwatch.jpg]]
+- [[Deadlock]]
+  [[deadlock.jpg]]
+- [[No Man's Sky]]
+  [[no mans sky.jpg]]
+- [[Infinity Nikki]]
+  [[infinity nikki.jpg]]
+- [[Sims 4]]
+  [[sims 4.jpg]]
 
-A similar category is [[gaming-platforms/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+Games can be separated into different genres, such as action, adventure, role-playing, simulation, strategy, sports, and multiplayer games.
 
 ## Related Categories
 
-Game software relies on [[gaming-hardware/index|game hardware]] to provide the systems and devices needed to run and interact with games.
+Gaming software relies on [[Gaming Hardware]] to provide the systems and devices needed to run and interact with games.
+
+Gaming software also relies on [[Gaming Platforms]] to provide the software and services needed to access, manage, and play games.
