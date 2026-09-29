@@ -3,21 +3,43 @@ title: Action Games
 ---
 ## Action Games
 
-### What is this page?
+### What Are Action Games
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+Action games are a type of video game that focuses on quick movements, timing, and reactions. Players usually have to react to things happening on the screen while controlling their character. Action games can include fighting, shooting, jumping, or avoiding obstacles.
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+### Common Types of Action Games
 
-### Naming a category page's index
+Some common types of action games include:
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
+- Fighting games
+- Shooter games
+- Platform games
+- Beat 'em up games
+- Action-adventure games
 
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
+Fighting games focus on combat between characters, while shooter games focus on using weapons to defeat enemies. Platform games usually involve running, jumping, and avoiding obstacles. There are also action-adventure games that combine combat with exploration, puzzles, and story.
 
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
+## What Makes Action Games Different?
 
-A similar category is [[gaming-platforms/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+One thing that makes action games different is how much the player has to react in the moment. Players may need to move quickly, aim accurately, dodge attacks, or time their actions correctly. This means hand-eye coordination and reaction time can be important when playing action games.
+
+Action games can also be mixed with other genres. For example, an action RPG can combine real-time combat with character levels, skills, and other RPG features. This allows games to have action gameplay while still including features from another genre.
+
+### What I Would Play
+
+If I was choosing an action game to play, I would probably want something with fun combat and a good story. I like when a game gives me things to do instead of making the gameplay feel repetitive.
+
+> I think action games are fun because they keep you involved and make you react to what is happening.
+
+Action games can also connect to [Gaming Culture Community](gaming-culture-community/index.md) because people often talk about their favorite action games, share gameplay, and play these games with other people. They can also connect to [Online Multiplayer Gaming](Online%20Multiplayer%20Gaming) when the game includes online modes.
+
+## Works Cited
+
+Adams, Ernest. “Action Game Subgenres.” _Fundamentals of Action and Arcade Game Design_, New Riders, 2014, O'Reilly Media, [https://www.oreilly.com/library/view/fundamentals-of-action/9780133812503/ch01.html](https://www.oreilly.com/library/view/fundamentals-of-action/9780133812503/ch01.html).
+
+“Action Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_game](https://en.wikipedia.org/wiki/Action_game). Accessed 29 Sept. 2026.
+
+“Action Role-Playing Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_role-playing_game](https://en.wikipedia.org/wiki/Action_role-playing_game). Accessed 29 Sept. 2026.
 
 
 
