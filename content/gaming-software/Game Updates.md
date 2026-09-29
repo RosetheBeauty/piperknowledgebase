@@ -1,5 +1,5 @@
 ---
-title: Gaming Software
+title: Game Updates
 ---
 ## Game Updates
 

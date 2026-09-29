@@ -1,5 +1,5 @@
 ---
-title: Online & Multiplayer Gaming
+title: Matchmaking
 ---
 ## Matchmaking
 

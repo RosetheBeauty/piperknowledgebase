@@ -1,5 +1,5 @@
 ---
-title: Gaming Platforms
+title: Mobile Gaming
 ---
 ## Mobile Gaming
 

@@ -1,5 +1,5 @@
 ---
-title: Gaming Platforms
+title: PC Gaming
 ---
 ## PC Gaming
 

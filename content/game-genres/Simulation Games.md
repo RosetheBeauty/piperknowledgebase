@@ -1,5 +1,5 @@
 ---
-title: Game Genres
+title: Simulation Games
 ---
 ## Simulation Games
 

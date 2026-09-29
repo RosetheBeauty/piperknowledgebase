@@ -1,5 +1,5 @@
 ---
-title: Game Genres
+title: Action Games
 ---
 ## Action Games
 

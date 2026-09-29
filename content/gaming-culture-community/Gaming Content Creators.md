@@ -1,5 +1,5 @@
 ---
-title: Gaming Culture & Community
+title: Gaming Content Creators
 ---
 ## Gaming Content Creators
 

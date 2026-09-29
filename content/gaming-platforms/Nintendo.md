@@ -1,5 +1,5 @@
 ---
-title: Gaming Platforms
+title: Nintendo
 ---
 ## Nintendo
 

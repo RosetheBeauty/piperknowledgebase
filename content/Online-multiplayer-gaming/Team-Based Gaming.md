@@ -1,5 +1,5 @@
 ---
-title: Online & Multiplayer Gaming
+title: Team-Based Gaming
 ---
 ## Team-Based Gaming
 

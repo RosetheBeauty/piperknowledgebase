@@ -1,5 +1,5 @@
 ---
-title: Game Genres
+title: Role Playing Games (RPGs)
 ---
 ## Role Playing Games (RPGs)
 

@@ -1,5 +1,5 @@
 ---
-title: Gaming Culture & Community
+title: Gaming Communities
 ---
 ## Gaming Communities
 

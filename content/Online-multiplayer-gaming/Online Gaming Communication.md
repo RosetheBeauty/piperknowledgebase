@@ -1,5 +1,5 @@
 ---
-title: Online & Multiplayer Gaming
+title: Online Gaming Communication
 ---
 ## Online Gaming Communication
 

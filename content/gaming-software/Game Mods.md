@@ -1,5 +1,5 @@
 ---
-title: Gaming Software
+title: Game Mods
 ---
 ## Game Mods
 

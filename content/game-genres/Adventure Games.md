@@ -1,5 +1,5 @@
 ---
-title: Game Genres
+title: Adventure Games
 ---
 ## Adventure Games
 

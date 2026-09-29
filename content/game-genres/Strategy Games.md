@@ -1,5 +1,5 @@
 ---
-title: Game Genres
+title: Strategy Games
 ---
 ## Strategy Games
 
