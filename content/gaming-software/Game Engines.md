@@ -15,16 +15,11 @@ Games are one of the main types of gaming software. They are interactive program
 
 Some examples of games include:
 
-- [[Overwatch]] 
-  [[overwatch.jpg]]
-- [[Deadlock]]
-  [[deadlock.jpg]]
-- [[No Man's Sky]]
-  [[no mans sky.jpg]]
-- [[Infinity Nikki]]
-  [[infinity nikki.jpg]]
-- [[Sims 4]]
-  [[sims 4.jpg]]
+- [[overwatch.jpg]]
+- [[deadlock.jpg]]
+- [[no mans sky.jpg]]
+- [[infinity nikki.jpg]]
+- [[sims 4.jpg]]
 
 Games can be separated into different genres, such as action, adventure, role-playing, simulation, strategy, sports, and multiplayer games.
 
