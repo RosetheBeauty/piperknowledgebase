@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## Game Genres
+## Role Playing Games (RPGs)
 
 ### What is this page?
 

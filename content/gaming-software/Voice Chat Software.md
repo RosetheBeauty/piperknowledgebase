@@ -1,7 +1,7 @@
 ---
 title: Gaming Software
 ---
-## Gaming Software
+## Voice Chat Software
 
 ### What is this page?
 

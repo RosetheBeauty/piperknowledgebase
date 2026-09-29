@@ -1,7 +1,7 @@
 ---
 title: Gaming Platforms
 ---
-## Gaming Platforms
+## Playstation
 
 ### What is this page?
 

@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## Game Genres
+## Simulation Games
 
 ### What is this page?
 

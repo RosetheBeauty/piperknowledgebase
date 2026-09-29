@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## Game Genres
+## Action Games
 
 ### What is this page?
 

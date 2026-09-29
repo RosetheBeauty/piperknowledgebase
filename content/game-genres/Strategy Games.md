@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## Game Genres
+## Strategy Games
 
 ### What is this page?
 

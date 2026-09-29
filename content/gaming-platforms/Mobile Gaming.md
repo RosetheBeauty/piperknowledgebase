@@ -1,7 +1,7 @@
 ---
 title: Gaming Platforms
 ---
-## Gaming Platforms
+## Mobile Gaming
 
 ### What is this page?
 

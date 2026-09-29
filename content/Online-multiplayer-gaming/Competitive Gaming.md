@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## Online & Multiplayer Gaming
+## Competitive Gaming
 
 ### What is this page?
 

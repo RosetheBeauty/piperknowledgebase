@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## Online & Multiplayer Gaming
+## Team-Based Gaming
 
 ### What is this page?
 

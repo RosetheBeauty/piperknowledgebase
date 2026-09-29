@@ -1,7 +1,7 @@
 ---
 title: Gaming Software
 ---
-## Gaming Software
+## Game Updates
 
 ### What is this page?
 

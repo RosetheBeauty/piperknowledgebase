@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-## Game Genres
+## Adventure Games
 
 ### What is this page?
 

@@ -1,7 +1,7 @@
 ---
 title: Gaming Platforms
 ---
-## Gaming Platforms
+## Nintendo
 
 ### What is this page?
 

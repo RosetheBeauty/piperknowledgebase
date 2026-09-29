@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## Online & Multiplayer Gaming
+## Matchmaking
 
 ### What is this page?
 

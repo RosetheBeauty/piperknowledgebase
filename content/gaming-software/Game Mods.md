@@ -1,7 +1,7 @@
 ---
 title: Gaming Software
 ---
-## Gaming Software
+## Game Mods
 
 ### What is this page?
 

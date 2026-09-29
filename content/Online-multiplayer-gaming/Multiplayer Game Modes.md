@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## Online & Multiplayer Gaming
+## Multiplayer Game Modes
 
 ### What is this page?
 

@@ -1,7 +1,7 @@
 ---
 title: Online & Multiplayer Gaming
 ---
-## Online & Multiplayer Gaming
+## Online Gaming Communication
 
 ### What is this page?
 

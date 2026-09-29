@@ -1,7 +1,7 @@
 ---
 title: Gaming Culture & Community
 ---
-## Gaming Culture & Community
+## Esports
 
 ### What is this page?
 
