@@ -25,13 +25,25 @@ One thing that makes action games different is how much the player has to react 
 
 Action games can also be mixed with other genres. For example, an action RPG can combine real-time combat with character levels, skills, and other RPG features. This allows games to have action gameplay while still including features from another genre.
 
+### Examples
+
+There are many popular action games that have been released in recent years. Some examples include:
+
+- **Marvel's Spider-Man 2** – An action-adventure game that focuses on combat, movement, and exploring New York City.
+- **Black Myth: Wukong** – An action game that focuses heavily on combat, bosses, and exploration.
+- **Stellar Blade** – An action game that combines fast combat with exploration and a story.
+- **God of War Ragnarök** – An action-adventure game with combat, exploration, puzzles, and story elements.
+- **Elden Ring** – An action RPG that combines action-based combat with exploration, character customization, and role-playing elements.
+- **Astro Bot** – A platforming action game that focuses on jumping, exploring, and avoiding obstacles.
+
+These games show how action games can be different from one another. Some focus more on fighting, while others include exploration, platforming, role-playing, or storytelling. Even though they have different gameplay styles, they all require the player to actively control their character and react to what is happening in the game.
 ### What I Would Play
 
 If I was choosing an action game to play, I would probably want something with fun combat and a good story. I like when a game gives me things to do instead of making the gameplay feel repetitive.
 
 > I think action games are fun because they keep you involved and make you react to what is happening.
 
-Action games can also connect to [Gaming Culture Community](gaming-culture-community/index.md) because people often talk about their favorite action games, share gameplay, and play these games with other people. They can also connect to [Online Multiplayer Gaming](Online%20Multiplayer%20Gaming) when the game includes online modes.
+Action games can also connect to [Gaming Culture Community](gaming-culture-community/index.md) because people often talk about their favorite action games, share gameplay, and play these games with other people. They can also connect to [Online Multiplayer Gaming](online-multiplayer-gaming/index.md) when the game includes online modes.
 
 ## Works Cited
 
