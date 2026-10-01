@@ -1,20 +1,75 @@
 ---
 title: Competitive Gaming
 ---
-## Competitive Gaming
+# What Is Competitive Gaming?
 
-### What is this page?
+Competitive gaming is a type of gaming where players compete against other players or teams. Players can compete for wins, rankings, rewards, or prizes. Competitive gaming can happen casually between friends or in organized competitions and tournaments.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+Competitive games often require players to practice, learn game mechanics, and work on their skills. Some competitive games are played individually, while others require players to work together as a team.
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+### Common Types of Competitive Gaming
 
-### Naming a category page's index
+Some common types of competitive gaming include:
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
+- Ranked gaming
+- Esports
+- Competitive shooters
+- Fighting games
+- Sports games
+- Racing games
+- Strategy games
+- Team based games
 
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
+Ranked gaming allows players to compete against others while working toward a ranking or skill level. Players may move up or down depending on their performance.
 
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
+Esports is organized competitive gaming where players and teams compete in tournaments and events. Some esports competitions have professional players and large audiences.
 
-A similar category is [[gaming-platforms/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+Competitive shooters require players to use aiming, movement, strategy, and teamwork to defeat opponents.
+
+Fighting games usually have players compete directly against each other. Players need to learn characters, combos, timing, and different strategies.
+
+## Modern Examples
+
+Some popular competitive games include:
+
+- **VALORANT**: A competitive first person shooter where teams use different characters and abilities.
+- **League of Legends**: A team based strategy game where players compete against another team.
+- **Counter Strike 2**: A competitive first person shooter focused on teamwork, strategy, and accuracy.
+- **Street Fighter 6**: A fighting game where players compete against each other using different characters.
+- **Rocket League**: A competitive sports game where teams use cars to play soccer.
+- **Overwatch 2**: A team based shooter where players choose different heroes with unique abilities.
+
+### What Makes Competitive Gaming Different?
+
+Competitive gaming is different because players are usually focused on winning or improving their performance. Players may practice specific skills, learn strategies, study opponents, and work with teammates.
+
+Competitive games can also use ranking systems to match players with others who have similar skill levels. This can make matches more challenging and balanced.
+
+### What I Would Play
+
+I would probably play competitive games casually instead of taking them too seriously. I like the idea of improving my skills while still having fun with the game.
+
+> I think competitive gaming can be fun because winning feels rewarding when you know you actually improved and worked for it.
+
+## Related Pages
+
+- [[Matchmaking]]
+- [[Multiplayer Game Modes]]
+- [[Online Gaming Communication]]
+- [[Team Based Gaming]]
+
+## Works Cited
+
+“Esports.” _Encyclopaedia Britannica_, Encyclopaedia Britannica, [www.britannica.com/sports/esports](http://www.britannica.com/sports/esports)
+
+“VALORANT.” _VALORANT_, Riot Games, playvalorant.com/.
+
+“League of Legends.” _League of Legends_, Riot Games, [www.leagueoflegends.com/](http://www.leagueoflegends.com/).
+
+“Counter-Strike 2.” _Steam_, Valve Corporation, store.steampowered.com/app/730/CounterStrike_2/.
+
+“Street Fighter 6.” _Street Fighter_, Capcom, [www.streetfighter.com/6/](http://www.streetfighter.com/6/).
+
+“Rocket League.” _Rocket League_, Epic Games, [www.rocketleague.com/](http://www.rocketleague.com/).
+
+“Overwatch 2.” _Overwatch_, Blizzard Entertainment, overwatch.blizzard.com/.

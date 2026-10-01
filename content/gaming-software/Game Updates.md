@@ -1,35 +1,72 @@
 ---
 title: Game Updates
 ---
-## Game Updates
+# What Are Game Updates?
 
-### What is this page?
+Game updates are changes made to a video game after it has been released. Updates can fix problems, add new content, improve performance, or change parts of the game. Developers can release updates regularly or only when changes are needed.
 
-Gaming software is software that is created for playing, developing, or supporting video games. It can include the games themselves, gaming platforms, game launchers, and software used to create games. Gaming software can be found on computers, consoles, phones, and other gaming devices.
+Game updates can range from small fixes to large updates that add new areas, characters, weapons, game modes, or other content.
 
-Gaming has become a major part of modern technology and entertainment. Different types of gaming software allow people to play games, connect with other players, and explore different types of interactive experiences.
+### Common Types of Game Updates
 
-### Games
+Some common types of game updates include:
 
-Games are one of the main types of gaming software. They are interactive programs that allow players to participate in different experiences, including competitive matches, stories, exploration, role-playing, and simulations.
+- Bug fixes
+- Content updates
+- Performance updates
+- Balance updates
+- Security updates
+- Seasonal updates
+- Major expansions
 
-Some examples of games include:
+Bug fixes are updates that repair problems or glitches in a game. These can help make the game more stable and prevent players from running into the same issues.
 
-- [[Overwatch]] 
-  [[overwatch.jpg]]
-- [[Deadlock]]
-  [[deadlock.jpg]]
-- [[No Man's Sky]]
-  [[no mans sky.jpg]]
-- [[Infinity Nikki]]
-  [[infinity nikki.jpg]]
-- [[Sims 4]]
-  [[sims 4.jpg]]
+Content updates add new things for players to experience. This can include new characters, maps, missions, weapons, items, or game modes.
 
-Games can be separated into different genres, such as action, adventure, role-playing, simulation, strategy, sports, and multiplayer games.
+Performance updates can improve how smoothly a game runs. Developers may make changes to loading times, graphics, frame rates, or other technical issues.
 
-## Related Categories
+Balance updates change parts of a game to make gameplay more balanced. For example, developers may change how powerful a weapon or character is.
 
-Gaming software relies on [[Gaming Hardware]] to provide the systems and devices needed to run and interact with games.
+## Modern Examples
 
-Gaming software also relies on [[Gaming Platforms]] to provide the software and services needed to access, manage, and play games.
+Some games that receive regular updates include:
+
+- **Fortnite**: Regular updates can add new seasons, items, maps, events, and gameplay changes.
+- **Minecraft**: Updates add new blocks, creatures, items, areas, and other features to the game.
+- **The Sims 4**: Updates can add new features and fix problems with the game.
+- **Call of Duty**: Updates can add new maps, weapons, modes, and balance changes.
+- **Baldur's Gate 3**: Updates have added improvements, fixes, and new features to the game.
+- **Grand Theft Auto Online**: Updates can add new missions, vehicles, activities, and other content.
+
+### What Makes Game Updates Different?
+
+Game updates can change a game after it has already been released. This means players can continue getting new content and improvements without needing to buy an entirely new game.
+
+Updates can also fix problems that developers did not find before release. However, an update can sometimes create new problems or change features that players were already used to.
+
+### What I Would Want From an Update
+
+I would want game updates to fix problems while also adding something useful to the game. New content is always nice, but I think fixing bugs and improving performance is just as important.
+
+> I think game updates are important because they can keep a game feeling fresh while also fixing problems that players may have.
+
+## Related Pages
+
+- [[Game Engines]]
+- [[Game Launchers]]
+- [[Game Mods]]
+- [[Voice Chat Software]]
+
+## Works Cited
+
+“Fortnite.” _Epic Games_, Epic Games, [www.fortnite.com/](http://www.fortnite.com/).
+
+“Minecraft.” _Minecraft_, Microsoft, [www.minecraft.net/](http://www.minecraft.net/).
+
+“The Sims 4.” _The Sims_, Electronic Arts, [www.ea.com/games/the-sims/the-sims-4](http://www.ea.com/games/the-sims/the-sims-4).
+
+“Call of Duty.” _Call of Duty_, Activision, [www.callofduty.com/](http://www.callofduty.com/).
+
+“Baldur's Gate 3.” _Baldur's Gate 3_, Larian Studios, baldursgate3.game/.
+
+“Grand Theft Auto Online.” _Rockstar Games_, Rockstar Games, [www.rockstargames.com/gta-online](http://www.rockstargames.com/gta-online).

@@ -28,6 +28,14 @@ Some examples of games include:
 
 Games can be separated into different genres, such as action, adventure, role-playing, simulation, strategy, sports, and multiplayer games.
 
+## Related Pages
+
+- [[Game Engines]]
+- [[Game Launchers]]
+- [[Game Mods]]
+- [[Game Updates]]
+- [[Voice Chat Software]]
+  
 ## Related Categories
 
 Gaming software relies on [[Gaming Hardware]] to provide the systems and devices needed to run and interact with games.

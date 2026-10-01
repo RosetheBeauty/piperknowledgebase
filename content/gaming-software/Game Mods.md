@@ -1,35 +1,71 @@
 ---
 title: Game Mods
 ---
-## Game Mods
+# What Are Game Mods?
 
-### What is this page?
+Game mods, short for modifications, are changes or additions made to a video game by players or other members of the gaming community. Mods can change how a game looks, sounds, or plays. Some mods add new characters, items, maps, or other features to an existing game.
 
-Gaming software is software that is created for playing, developing, or supporting video games. It can include the games themselves, gaming platforms, game launchers, and software used to create games. Gaming software can be found on computers, consoles, phones, and other gaming devices.
+Mods can be small changes or large projects that add completely new content to a game. Some games have official mod support, while others rely on community tools to create and share mods.
 
-Gaming has become a major part of modern technology and entertainment. Different types of gaming software allow people to play games, connect with other players, and explore different types of interactive experiences.
+### Common Types of Game Mods
 
-### Games
+Some common types of game mods include:
 
-Games are one of the main types of gaming software. They are interactive programs that allow players to participate in different experiences, including competitive matches, stories, exploration, role-playing, and simulations.
+- Visual mods
+- Character mods
+- Map mods
+- Gameplay mods
+- New items and weapons
+- Texture mods
+- Total conversion mods
 
-Some examples of games include:
+Visual mods can change the way a game looks by improving textures, lighting, character models, or other graphics.
 
-- [[Overwatch]] 
-  [[overwatch.jpg]]
-- [[Deadlock]]
-  [[deadlock.jpg]]
-- [[No Man's Sky]]
-  [[no mans sky.jpg]]
-- [[Infinity Nikki]]
-  [[infinity nikki.jpg]]
-- [[Sims 4]]
-  [[sims 4.jpg]]
+Character mods can add new characters or change existing ones. Map mods can create new areas for players to explore.
 
-Games can be separated into different genres, such as action, adventure, role-playing, simulation, strategy, sports, and multiplayer games.
+Gameplay mods can change how a game works. They can adjust difficulty, add new abilities, change game mechanics, or introduce completely different ways to play.
 
-## Related Categories
+Total conversion mods are larger modifications that can change many parts of a game and create a very different experience from the original version.
 
-Gaming software relies on [[Gaming Hardware]] to provide the systems and devices needed to run and interact with games.
+## Modern Examples
 
-Gaming software also relies on [[Gaming Platforms]] to provide the software and services needed to access, manage, and play games.
+Some popular examples of games with active mod communities include:
+
+- **Minecraft**: Players can use mods to add new items, creatures, gameplay systems, and worlds.
+- **The Elder Scrolls V: Skyrim**: One of the most well known games for community created mods, including new quests, characters, locations, and graphics.
+- **Grand Theft Auto V**: Players have created mods that add new vehicles, characters, maps, and gameplay features.
+- **Baldur's Gate 3**: Mods can add new character options, equipment, cosmetics, and other gameplay changes.
+- **Stardew Valley**: Mods can add new characters, locations, items, and changes to the farming and life simulation experience.
+
+### What Makes Game Mods Different?
+
+Game mods are different because they allow players to change an existing game instead of only playing the content created by the original developers. Mods can give a game more content and can also allow players to customize their experience.
+
+However, mods do not always work with every version of a game. Some mods can also conflict with each other or stop working after a game receives an update.
+
+### What I Would Use
+
+I would probably use mods that add new content or customization without changing the main game too much. I like the idea of being able to make a game feel more personal while still keeping the original experience.
+
+> I think game mods are cool because they can give players more ways to enjoy a game after they have already played the original content.
+
+## Related Pages
+
+- [[Game Engines]]
+- [[Game Launchers]]
+- [[Game Updates]]
+- [[Voice Chat Software]]
+
+## Works Cited
+
+“Mods.” _PCGamingWiki_, PCGamingWiki, pcgamingwiki.com/.
+
+“Skyrim Special Edition.” _Bethesda_, Bethesda Softworks, bethesda.net/.
+
+“Minecraft.” _Minecraft_, Microsoft, [www.minecraft.net/](http://www.minecraft.net/).
+
+“Grand Theft Auto V.” _Rockstar Games_, Rockstar Games, [www.rockstargames.com/gta-v](http://www.rockstargames.com/gta-v).
+
+“Baldur's Gate 3.” _Baldur's Gate 3_, Larian Studios, baldursgate3.game/.
+
+“Stardew Valley.” _Stardew Valley_, ConcernedApe, [www.stardewvalley.net/](http://www.stardewvalley.net/).
