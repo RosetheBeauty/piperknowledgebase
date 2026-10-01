@@ -49,17 +49,17 @@ If I was choosing a simulation game, I would probably want one where I could bui
 Simulation games can also connect to [Game Genres](game-genres/index.md), [Gaming Platforms](gaming-platforms/index.md), [Gaming Software](gaming-software/index.md), and [Gaming Culture Community](gaming-culture-community/index.md). Different simulation games can be played on different platforms, use different types of gaming software, and are popular in gaming communities.
 ## Works Cited
 
-“Simulation Video Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Simulation_video_game](https://en.wikipedia.org/wiki/Simulation_video_game). Accessed 29 Sept. 2026.
+“Simulation Video Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Simulation_video_game](https://en.wikipedia.org/wiki/Simulation_video_game). 
 
-“The Sims 4.” _Electronic Arts_, [https://www.ea.com/games/the-sims/the-sims-4](https://www.ea.com/games/the-sims/the-sims-4). Accessed 29 Sept. 2026.
+“The Sims 4.” _Electronic Arts_, [https://www.ea.com/games/the-sims/the-sims-4](https://www.ea.com/games/the-sims/the-sims-4). 
 
-“Cities: Skylines II.” _Paradox Interactive_, [https://www.paradoxinteractive.com/games/cities-skylines-ii](https://www.paradoxinteractive.com/games/cities-skylines-ii). Accessed 29 Sept. 2026.
+“Cities: Skylines II.” _Paradox Interactive_, [https://www.paradoxinteractive.com/games/cities-skylines-ii](https://www.paradoxinteractive.com/games/cities-skylines-ii). 
 
-“Microsoft Flight Simulator 2024.” _Xbox_, [https://www.xbox.com/en-US/games/microsoft-flight-simulator-2024](https://www.xbox.com/en-US/games/microsoft-flight-simulator-2024). Accessed 29 Sept. 2026.
+“Microsoft Flight Simulator 2024.” _Xbox_, [https://www.xbox.com/en-US/games/microsoft-flight-simulator-2024](https://www.xbox.com/en-US/games/microsoft-flight-simulator-2024).
 
-“Farming Simulator 25.” _GIANTS Software_, [https://www.farming-simulator.com/about.php](https://www.farming-simulator.com/about.php). Accessed 29 Sept. 2026.
+“Farming Simulator 25.” _GIANTS Software_, [https://www.farming-simulator.com/about.php](https://www.farming-simulator.com/about.php). 
 
-“Planet Zoo.” _Frontier Developments_, [https://www.planetzoogame.com/](https://www.planetzoogame.com/). Accessed 29 Sept. 2026.
+“Planet Zoo.” _Frontier Developments_, [https://www.planetzoogame.com/](https://www.planetzoogame.com/).
 
 
 

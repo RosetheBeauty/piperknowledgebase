@@ -13,7 +13,7 @@ Some common gaming accessories include:
 - Charging docks
 - Racing wheels
 
-A headset can help players hear their games and talk to other people. A gaming mouse and keyboard are useful for people who play games on a [[Gaming PCs|gaming PC]]. A charging dock can make it easier to keep wireless controllers charged. Racing wheels are also popular with people who like racing games.
+A headset can help players hear their games and talk to other people. A gaming mouse and keyboard are useful for people who play games on a [[Gaming PCs]]. A charging dock can make it easier to keep wireless controllers charged. Racing wheels are also popular with people who like racing games.
 
 ## Making a Gaming Setup
 

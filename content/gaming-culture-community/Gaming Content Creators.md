@@ -51,7 +51,7 @@ If I was watching a gaming content creator, I would probably choose someone who 
 
 “Video Game Streaming.” *Encyclopaedia Britannica*, Encyclopaedia Britannica, [www.britannica.com/topic/video-game](http://www.britannica.com/topic/video-game).
 
-“YouTube Gaming.” *YouTube*, Google, gaming.youtube.com/.
+“YouTube Gaming.” *YouTube*, Google, www.youtube.com/.
 
 “Twitch.” *Twitch*, Twitch Interactive, [www.twitch.tv/](http://www.twitch.tv/).
 

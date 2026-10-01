@@ -49,9 +49,9 @@ Action games can also connect to [Gaming Culture Community](gaming-culture-commu
 
 Adams, Ernest. “Action Game Subgenres.” _Fundamentals of Action and Arcade Game Design_, New Riders, 2014, O'Reilly Media, [https://www.oreilly.com/library/view/fundamentals-of-action/9780133812503/ch01.html](https://www.oreilly.com/library/view/fundamentals-of-action/9780133812503/ch01.html).
 
-“Action Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_game](https://en.wikipedia.org/wiki/Action_game). Accessed 29 Sept. 2026.
+“Action Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_game](https://en.wikipedia.org/wiki/Action_game). 
 
-“Action Role-Playing Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_role-playing_game](https://en.wikipedia.org/wiki/Action_role-playing_game). Accessed 29 Sept. 2026.
+“Action Role-Playing Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action_role-playing_game](https://en.wikipedia.org/wiki/Action_role-playing_game). 
 
 
 

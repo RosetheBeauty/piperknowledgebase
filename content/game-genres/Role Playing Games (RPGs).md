@@ -46,15 +46,15 @@ RPGs can also connect to [Game Genres](game-genres/index.md), [Gaming Platforms]
 
 ## Works Cited
 
-“Role-Playing Video Game.” _Encyclopaedia Britannica_, [https://www.britannica.com/topic/role-playing-video-game](https://www.britannica.com/topic/role-playing-video-game). Accessed 29 Sept. 2026.
+“Role-Playing Video Game.” _Encyclopaedia Britannica_, [https://www.britannica.com/topic/role-playing-video-game](https://www.britannica.com/topic/role-playing-video-game). 
 
-“Role-Playing Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Role-playing_video_game](https://en.wikipedia.org/wiki/Role-playing_video_game). Accessed 29 Sept. 2026.
+“Role-Playing Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Role-playing_video_game](https://en.wikipedia.org/wiki/Role-playing_video_game). 
 
-“Baldur's Gate 3.” _Larian Studios_, [https://baldursgate3.game/](https://baldursgate3.game/). Accessed 29 Sept. 2026.
+“Baldur's Gate 3.” _Larian Studios_, [https://baldursgate3.game/](https://baldursgate3.game/). 
 
-“Elden Ring.” _Bandai Namco Entertainment_, [https://en.bandainamcoent.eu/elden-ring/elden-ring](https://en.bandainamcoent.eu/elden-ring/elden-ring). Accessed 29 Sept. 2026.
+“Elden Ring.” _Bandai Namco Entertainment_, [https://en.bandainamcoent.eu/elden-ring/elden-ring](https://en.bandainamcoent.eu/elden-ring/elden-ring).
 
-“Monster Hunter Wilds.” _Capcom_, [https://www.monsterhunter.com/wilds/](https://www.monsterhunter.com/wilds/). Accessed 29 Sept. 2026.
+“Monster Hunter Wilds.” _Capcom_, [https://www.monsterhunter.com/wilds/](https://www.monsterhunter.com/wilds/). 
 
 
 

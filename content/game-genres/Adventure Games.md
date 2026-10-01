@@ -48,13 +48,13 @@ Adventure games can also connect to [Game Genres](game-genres/index.md), [Gaming
 
 ## Works Cited
 
-“Adventure Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Adventure_game](https://en.wikipedia.org/wiki/Adventure_game). Accessed 29 Sept. 2026.
+“Adventure Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Adventure_game](https://en.wikipedia.org/wiki/Adventure_game). 
 
-“Action-Adventure Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action-adventure_game](https://en.wikipedia.org/wiki/Action-adventure_game). Accessed 29 Sept. 2026.
+“Action-Adventure Game.” _Wikipedia_, Wikimedia Foundation, [https://en.wikipedia.org/wiki/Action-adventure_game](https://en.wikipedia.org/wiki/Action-adventure_game). 
 
-“The Legend of Zelda: Tears of the Kingdom.” _Nintendo_, [https://www.nintendo.com/us/games/detail/the-legend-of-zelda-tears-of-the-kingdom-switch/](https://www.nintendo.com/us/games/detail/the-legend-of-zelda-tears-of-the-kingdom-switch/). Accessed 29 Sept. 2026.
+“The Legend of Zelda: Tears of the Kingdom.” _Nintendo_, [https://www.nintendo.com/us/games/detail/the-legend-of-zelda-tears-of-the-kingdom-switch/](https://www.nintendo.com/us/games/detail/the-legend-of-zelda-tears-of-the-kingdom-switch/). 
 
-“Indiana Jones and the Great Circle.” _Bethesda_, [https://bethesda.net/en/game/indiana-jones-and-the-great-circle](https://bethesda.net/en/game/indiana-jones-and-the-great-circle). Accessed 29 Sept. 2026.
+“Indiana Jones and the Great Circle.” _Bethesda_, [https://bethesda.net/en/game/indiana-jones-and-the-great-circle](https://bethesda.net/en/game/indiana-jones-and-the-great-circle). 
 
 
 
