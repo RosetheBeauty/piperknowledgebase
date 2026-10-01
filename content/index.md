@@ -1,6 +1,49 @@
 ---
 title: Piper's Gaming
 ---
+
+# Piper's Gaming
+
+Welcome to Piper's Gaming, a gaming knowledge base that covers different parts of the video game world. This site provides information about game genres, gaming communities, platforms, software, online multiplayer gaming, and gaming hardware.
+
+Whether someone is new to gaming or already plays regularly, this knowledge base can help explain common gaming terms, types of games, gaming technology, and how players connect with each other.
+
+## Explore Gaming Topics
+
+### Game Genres
+
+Learn about different types of video games and what makes each genre different. This section covers genres such as action, adventure, role playing, simulation, strategy, and more.
+
+### Gaming Culture & Community
+
+Learn how gamers connect with each other through communities, esports, content creation, conventions, events, and other gaming activities.
+
+### Gaming Platforms
+
+Explore the different platforms people use to play games, including consoles, PCs, mobile devices, and handheld gaming systems.
+
+### Gaming Software
+
+Learn about software used to play, create, modify, and communicate through video games. Topics include game engines, game launchers, mods, updates, and voice chat software.
+
+### Online & Multiplayer Gaming
+
+Learn about the different ways players connect and play together online. This section covers competitive gaming, matchmaking, multiplayer game modes, communication, and team based gaming.
+
+### Gaming Hardware
+
+Explore the physical equipment used for gaming, including consoles, gaming PCs, controllers, monitors, keyboards, mice, headsets, and other accessories.
+
+## About This Knowledge Base
+
+Piper's Gaming was created to organize information about video games and the different parts of gaming in one place. Each section focuses on a specific topic and provides simple explanations, examples, and related information.
+
+> Gaming is more than just playing a game. It includes the games people play, the technology they use, and the communities they become part of.
+
+## Start Exploring
+
+Choose a topic above to learn more about gaming and explore the different parts of the gaming world.
+
 ## Main Categories
 
 - [[gaming-platforms/index|Gaming Platforms]]
@@ -10,38 +53,4 @@ title: Piper's Gaming
 - [[Online-multiplayer-gaming/index|Online & Multiplayer Gaming]]
 - [[gaming-culture-community/index|Gaming Culture & Community]]
 
-## Editing pages
-
-Hello, You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 

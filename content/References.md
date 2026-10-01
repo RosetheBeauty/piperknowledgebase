@@ -6,28 +6,28 @@ title: References
 ### Game Genres
 
 “Video Game.” Encyclopedia Britannica, Encyclopedia Britannica, [www.britannica.com/topic/video-game](http://www.britannica.com/topic/video-game).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Video Game Genre.” Wikipedia, Wikimedia Foundation, [en.wikipedia.org/wiki/Video_game_genre](https://en.wikipedia.org/wiki/Video_game_genre).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Baldur’s Gate 3.” Larian Studios, [baldursgate3.game](https://baldursgate3.game/).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Marvel’s Spider-Man 2.” PlayStation, Sony Interactive Entertainment, [www.playstation.com/en-us/games/marvels-spider-man-2](https://www.playstation.com/en-us/games/marvels-spider-man-2/).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “The Sims 4.” Electronic Arts, [www.ea.com/games/the-sims/the-sims-4](https://www.ea.com/games/the-sims/the-sims-4).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Civilization VII.” 2K, [civilization.2k.com](https://civilization.2k.com/).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Forza Horizon 5.” Xbox, Microsoft, [www.xbox.com/en-US/games/forza/forza-horizon-5](https://www.xbox.com/en-US/games/forza/forza-horizon-5).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 “Resident Evil 4.” Capcom, [www.residentevil.com/re4](https://www.residentevil.com/re4/).  
-Cited on: [[Game Genres]]
+Cited on: [Game Genres](game-genres/index.md)
 
 ### Strategy Games
 
@@ -75,7 +75,7 @@ Cited on: [[Simulation Games]]
 ### Gaming Culture and Community
 
 “Esports.” Encyclopedia Britannica, Encyclopedia Britannica, [www.britannica.com/sports/esports](https://www.britannica.com/sports/esports).  
-Cited on: Esports, Competitive Gaming
+Cited on: [[Esports]], [[Competitive Gaming]]
 
 “Gaming Community.” Wikipedia, Wikimedia Foundation, [en.wikipedia.org/wiki/Gaming_community](https://en.wikipedia.org/wiki/Gaming_community).  
 Cited on: [[Gaming Communities]]
@@ -179,13 +179,13 @@ Cited on: [[Gaming Events]]
 ### Gaming Hardware
 
 “PlayStation 5.” PlayStation, Sony Interactive Entertainment, [www.playstation.com](https://www.playstation.com/).  
-Cited on: Gaming Hardware
+Cited on: [Gaming Hardware](gaming-hardware/index.md)
 
 “Xbox Series X.” Xbox, Microsoft, [www.xbox.com/en-US/consoles/xbox-series-x](https://www.xbox.com/en-US/consoles/xbox-series-x).  
-Cited on: Gaming Hardware
+Cited on: [Gaming Hardware](gaming-hardware/index.md)
 
 “Nintendo Switch 2.” Nintendo, [www.nintendo.com/us/gaming-systems/switch-2](https://www.nintendo.com/us/gaming-systems/switch-2/).  
-Cited on: Gaming Hardware
+Cited on: [Gaming Hardware](gaming-hardware/index.md)
 
 ### Gaming Platforms
 

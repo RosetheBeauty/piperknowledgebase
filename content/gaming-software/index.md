@@ -38,6 +38,6 @@ Games can be separated into different genres, such as action, adventure, role-pl
   
 ## Related Categories
 
-Gaming software relies on [[Gaming Hardware]] to provide the systems and devices needed to run and interact with games.
+Gaming software relies on [Gaming Hardware](gaming-hardware/index.md) to provide the systems and devices needed to run and interact with games.
 
 Gaming software also relies on [[Gaming Platforms]] to provide the software and services needed to access, manage, and play games.
