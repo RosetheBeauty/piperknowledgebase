@@ -53,7 +53,13 @@ If I was choosing a game based on genre, I would probably look for something tha
 
 > I think game genres are useful because they make it easier to find games based on the type of gameplay you actually enjoy.
 
-Game genres can also connect to [Gaming Platforms](gaming-platforms/index.md), [Gaming Software](gaming-software/index.md), and [Gaming Culture Community](gaming-culture-community/index.md). Different genres can be played on different platforms, use different types of software, and become popular parts of gaming communities.
+### Related Pages
+
+- [[Action Games]]
+- [[Adventure Games]]
+- [[RPG Games]]
+- [[Simulation Games]]
+- [[Strategy Games]]
 
 ## Works Cited
 

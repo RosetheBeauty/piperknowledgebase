@@ -54,7 +54,13 @@ I like that gaming gives people different ways to enjoy the same hobby. Someone 
 
 > I think gaming culture is more than just playing games. It is about the people, experiences, and communities that grow around them.
 
-Gaming culture and community can also connect to [Game Genres](game-genres/index.md), [Gaming Platforms](gaming-platforms/index.md), [Gaming Software](gaming-software/index.md), and [Online Multiplayer Gaming](online-multiplayer-gaming/index.md). These areas all play a part in how people play games, communicate with other players, and participate in gaming culture.
+### Related Pages
+
+- [[Esports]]
+- [[Gaming Communities]]
+- [[Gaming Content Creators]]
+- [[Gaming Conventions]]
+- [[Gaming Events]]
 
 ## Works Cited
 
